@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+img {
+  width: 100vw;
+}
+
+a {
+  display: block;
+  background-color: rgb(34, 34, 34);
+  padding: 20px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
